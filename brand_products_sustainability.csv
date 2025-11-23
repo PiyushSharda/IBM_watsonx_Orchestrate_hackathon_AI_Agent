@@ -1,0 +1,511 @@
+Brand,Product Category,Material Score,Supply Chain Transparency Score,Certifications Score,Carbon Footprint Score,Packaging Score,Labor Practices Score,Water Usage Score,Overall Sustainability Score,Country of Origin,Price Range,Year Established
+Abercrombie & Fitch,Jackets,47,47,42,55,40,50,64,49,USA,Mid,1950
+Abercrombie & Fitch,Jeans,46,41,39,52,48,54,56,48,USA,Mid,1950
+Abercrombie & Fitch,Shoes,45,42,40,60,48,53,62,50,USA,Mid,1950
+Abercrombie & Fitch,Sweaters,53,44,42,54,46,47,57,49,USA,Mid,1950
+Abercrombie & Fitch,Underwear,54,46,44,55,41,54,58,50,USA,Mid,1950
+Hollister,Jeans,46,49,41,54,47,46,59,48,USA,Mid,1955
+Hollister,Hats,50,50,37,53,45,45,62,48,USA,Mid,1955
+Hollister,Sweaters,53,44,44,53,46,48,63,50,USA,Mid,1955
+Hollister,Dresses,54,49,39,50,47,47,60,49,USA,Mid,1955
+Hollister,T-Shirts,48,44,39,55,47,45,62,48,USA,Mid,1955
+Aeropostale,Underwear,17,18,9,22,14,18,30,18,USA,Budget,1960
+Aeropostale,Shoes,16,14,5,24,14,15,32,17,USA,Budget,1960
+Aeropostale,Dresses,19,10,10,21,13,23,34,18,USA,Budget,1960
+Aeropostale,T-Shirts,15,14,15,25,12,24,28,19,USA,Budget,1960
+Aeropostale,Sweaters,20,19,12,22,13,15,29,18,USA,Budget,1960
+Ann Taylor,Hats,55,44,40,59,46,48,56,49,USA,Mid,1965
+Ann Taylor,Jeans,55,50,43,57,47,46,57,50,USA,Mid,1965
+Ann Taylor,Dresses,55,43,43,51,50,51,55,49,USA,Mid,1965
+Ann Taylor,Socks,54,50,39,58,50,55,59,52,USA,Mid,1965
+Ann Taylor,T-Shirts,46,46,39,57,48,52,62,50,USA,Mid,1965
+Talbots,Leggings,55,46,42,55,41,52,64,50,USA,Mid,1970
+Talbots,Underwear,55,49,37,54,46,50,62,50,USA,Mid,1970
+Talbots,Shoes,50,45,45,55,50,52,60,51,USA,Mid,1970
+Talbots,Jeans,51,40,36,52,42,48,60,47,USA,Mid,1970
+Talbots,Socks,47,42,43,57,46,47,63,49,USA,Mid,1970
+Brooks Brothers,Dresses,51,46,42,58,48,55,65,52,USA,Mid,1975
+Brooks Brothers,T-Shirts,47,48,37,59,44,45,56,48,USA,Mid,1975
+Brooks Brothers,Underwear,53,45,37,51,49,53,57,49,USA,Mid,1975
+Brooks Brothers,Socks,53,44,41,50,49,49,59,49,USA,Mid,1975
+Brooks Brothers,Jackets,49,44,44,56,49,54,56,50,USA,Mid,1975
+J. Crew,Sweaters,47,40,40,59,49,48,58,48,USA,Mid,1980
+J. Crew,Leggings,51,43,39,55,41,47,57,47,USA,Mid,1980
+J. Crew,Hats,53,40,44,52,50,51,56,49,USA,Mid,1980
+J. Crew,Jeans,45,47,43,51,49,46,62,49,USA,Mid,1980
+J. Crew,T-Shirts,55,40,45,52,47,47,60,49,USA,Mid,1980
+Nordstrom,T-Shirts,49,43,44,52,49,51,56,49,USA,Mid,1985
+Nordstrom,Leggings,49,47,44,57,44,52,55,49,USA,Mid,1985
+Nordstrom,Underwear,54,40,44,50,40,52,55,47,USA,Mid,1985
+Nordstrom,Sweaters,47,42,40,58,40,45,59,47,USA,Mid,1985
+Nordstrom,Shoes,55,43,45,52,42,50,65,50,USA,Mid,1985
+Old Navy,Leggings,14,15,14,28,12,21,30,19,USA,Budget,1990
+Old Navy,Hats,14,19,10,27,18,25,28,20,USA,Budget,1990
+Old Navy,T-Shirts,13,14,12,29,11,17,26,17,USA,Budget,1990
+Old Navy,Dresses,15,15,10,28,10,23,30,18,USA,Budget,1990
+Old Navy,Shoes,11,16,15,26,12,16,31,18,USA,Budget,1990
+Kate Spade,Socks,45,40,49,49,30,35,51,42,USA,Luxury,1995
+Kate Spade,Dresses,44,35,45,45,40,30,55,42,USA,Luxury,1995
+Kate Spade,Sweaters,38,40,54,46,30,27,46,40,USA,Luxury,1995
+Kate Spade,T-Shirts,45,40,55,49,32,31,45,42,USA,Luxury,1995
+Kate Spade,Leggings,39,31,50,41,30,35,52,39,USA,Luxury,1995
+Tory Burch,Hats,43,39,46,44,39,25,53,41,USA,Luxury,2000
+Tory Burch,Underwear,44,36,55,49,32,33,47,42,USA,Luxury,2000
+Tory Burch,Sweaters,42,38,53,48,32,28,52,41,USA,Luxury,2000
+Tory Burch,Shoes,42,36,46,50,36,29,49,41,USA,Luxury,2000
+Tory Burch,T-Shirts,40,35,52,50,33,28,51,41,USA,Luxury,2000
+Ralph Lauren,Socks,47,50,40,56,42,53,64,50,USA,Premium,2005
+Ralph Lauren,Underwear,48,41,45,52,45,45,55,47,USA,Premium,2005
+Ralph Lauren,Jackets,55,41,39,58,41,49,59,48,USA,Premium,2005
+Ralph Lauren,Sweaters,50,42,40,55,44,55,57,49,USA,Premium,2005
+Ralph Lauren,Hats,49,45,36,59,41,54,58,48,USA,Premium,2005
+Tommy Hilfiger,T-Shirts,46,42,40,56,42,49,65,48,USA,Mid,2010
+Tommy Hilfiger,Socks,54,49,35,56,46,55,63,51,USA,Mid,2010
+Tommy Hilfiger,Underwear,55,44,45,56,45,55,56,50,USA,Mid,2010
+Tommy Hilfiger,Sweaters,51,42,43,54,40,51,64,49,USA,Mid,2010
+Tommy Hilfiger,Jackets,52,41,42,55,43,53,65,50,USA,Mid,2010
+Michael Kors,Socks,42,37,45,41,36,31,49,40,USA,Luxury,2015
+Michael Kors,Leggings,41,39,48,47,33,34,50,41,USA,Luxury,2015
+Michael Kors,Jackets,39,40,45,46,33,30,54,41,USA,Luxury,2015
+Michael Kors,T-Shirts,41,31,47,45,33,25,48,38,USA,Luxury,2015
+Michael Kors,Sweaters,35,35,52,41,32,29,55,39,USA,Luxury,2015
+Coach,Socks,36,38,48,48,33,28,50,40,USA,Luxury,1950
+Coach,Shoes,39,32,49,45,36,29,55,40,USA,Luxury,1950
+Coach,Jeans,45,35,55,48,35,34,52,43,USA,Luxury,1950
+Coach,Underwear,45,32,53,42,36,34,55,42,USA,Luxury,1950
+Coach,Sweaters,40,35,46,45,33,26,54,39,USA,Luxury,1950
+Juicy Couture,Underwear,38,37,50,48,33,25,47,39,USA,Luxury,1955
+Juicy Couture,T-Shirts,41,35,48,50,35,35,51,42,USA,Luxury,1955
+Juicy Couture,Sweaters,44,32,49,47,30,31,53,40,USA,Luxury,1955
+Juicy Couture,Hats,45,38,49,47,35,28,48,41,USA,Luxury,1955
+Juicy Couture,Dresses,35,30,48,43,30,35,49,38,USA,Luxury,1955
+Express,Shoes,51,50,42,56,47,55,57,51,USA,Mid,1960
+Express,Dresses,51,47,43,53,45,46,63,49,USA,Mid,1960
+Express,Hats,55,46,39,59,44,52,64,51,USA,Mid,1960
+Express,Leggings,55,46,45,53,42,47,64,50,USA,Mid,1960
+Express,T-Shirts,45,41,37,60,40,45,55,46,USA,Mid,1960
+UGG,Leggings,48,46,43,56,47,55,61,50,USA,Mid,1965
+UGG,Hats,51,44,36,52,42,45,56,46,USA,Mid,1965
+UGG,Jeans,50,43,42,59,50,52,65,51,USA,Mid,1965
+UGG,Underwear,45,42,40,59,50,47,62,49,USA,Mid,1965
+UGG,Jackets,53,44,37,50,50,48,58,48,USA,Mid,1965
+Lane Bryant,Dresses,47,43,39,51,43,47,58,46,USA,Mid,1970
+Lane Bryant,T-Shirts,55,45,44,53,46,53,60,50,USA,Mid,1970
+Lane Bryant,Jeans,51,45,39,53,46,53,64,50,USA,Mid,1970
+Lane Bryant,Leggings,53,44,41,56,44,55,62,50,USA,Mid,1970
+Lane Bryant,Hats,46,41,42,54,48,55,55,48,USA,Mid,1970
+Kohl's,Leggings,45,50,38,56,43,53,59,49,USA,Mid,1975
+Kohl's,Hats,51,48,45,60,48,54,60,52,USA,Mid,1975
+Kohl's,Underwear,54,50,37,60,42,52,58,50,USA,Mid,1975
+Kohl's,Dresses,53,40,42,50,47,55,64,50,USA,Mid,1975
+Kohl's,Socks,55,41,42,58,47,54,64,51,USA,Mid,1975
+American Apparel,Leggings,10,12,10,24,15,20,32,17,USA,Budget,1980
+American Apparel,Hats,20,10,5,26,18,15,27,17,USA,Budget,1980
+American Apparel,Shoes,19,19,11,26,20,25,28,21,USA,Budget,1980
+American Apparel,Sweaters,20,15,15,22,18,19,31,20,USA,Budget,1980
+American Apparel,Socks,15,14,15,29,10,19,33,19,USA,Budget,1980
+Liz Claiborne,Jackets,53,50,40,60,40,52,65,51,USA,Mid,1985
+Liz Claiborne,Sweaters,48,49,35,51,49,48,62,48,USA,Mid,1985
+Liz Claiborne,T-Shirts,53,43,42,53,43,53,62,49,USA,Mid,1985
+Liz Claiborne,Jeans,55,50,39,58,49,45,62,51,USA,Mid,1985
+Liz Claiborne,Shoes,53,42,36,53,41,55,59,48,USA,Mid,1985
+Karen Millen,Socks,38,34,55,50,38,27,52,42,UK,Luxury,1990
+Karen Millen,Leggings,38,32,46,47,34,31,48,39,UK,Luxury,1990
+Karen Millen,Sweaters,41,32,50,45,35,27,48,39,UK,Luxury,1990
+Karen Millen,Hats,42,34,49,46,38,27,47,40,UK,Luxury,1990
+Karen Millen,Jeans,35,33,47,46,33,26,54,39,UK,Luxury,1990
+Fossil,Shoes,45,48,39,56,44,48,60,48,USA,Mid,1995
+Fossil,Leggings,51,45,36,50,48,55,65,50,USA,Mid,1995
+Fossil,Sweaters,46,50,44,50,48,50,58,49,USA,Mid,1995
+Fossil,Dresses,47,48,41,59,48,49,56,49,USA,Mid,1995
+Fossil,Jackets,47,48,41,52,43,51,58,48,USA,Mid,1995
+Steve Madden,Leggings,45,46,40,60,45,50,61,49,USA,Mid,2000
+Steve Madden,Shoes,49,48,35,51,45,54,61,49,USA,Mid,2000
+Steve Madden,Socks,46,42,41,54,44,54,59,48,USA,Mid,2000
+Steve Madden,Jeans,52,43,44,55,40,53,55,48,USA,Mid,2000
+Steve Madden,T-Shirts,46,50,39,54,43,54,64,50,USA,Mid,2000
+Nine West,Dresses,54,48,43,58,43,48,59,50,USA,Mid,2005
+Nine West,Underwear,45,46,39,51,49,53,60,49,USA,Mid,2005
+Nine West,Jeans,55,50,37,54,50,52,59,51,USA,Mid,2005
+Nine West,Leggings,55,49,44,54,46,45,56,49,USA,Mid,2005
+Nine West,Sweaters,48,48,38,50,48,45,56,47,USA,Mid,2005
+Guess,Socks,54,43,43,60,40,46,58,49,USA,Mid,2010
+Guess,Shoes,47,44,36,52,41,49,61,47,USA,Mid,2010
+Guess,Jackets,45,48,40,58,47,48,64,50,USA,Mid,2010
+Guess,Sweaters,48,45,35,51,50,49,63,48,USA,Mid,2010
+Guess,Leggings,49,42,44,52,43,48,58,48,USA,Mid,2010
+Lauren Ralph Lauren,Sweaters,47,42,40,56,47,49,65,49,USA,Premium,2015
+Lauren Ralph Lauren,Shoes,49,50,39,59,48,48,56,49,USA,Premium,2015
+Lauren Ralph Lauren,Socks,52,40,42,50,48,55,56,49,USA,Premium,2015
+Lauren Ralph Lauren,Jeans,47,49,38,55,43,47,56,47,USA,Premium,2015
+Lauren Ralph Lauren,Jackets,52,47,45,56,44,49,57,50,USA,Premium,2015
+The Limited,Socks,51,42,44,54,40,50,62,49,USA,Mid,1950
+The Limited,Jackets,52,41,40,51,44,52,63,49,USA,Mid,1950
+The Limited,Leggings,53,48,40,51,45,46,60,49,USA,Mid,1950
+The Limited,Sweaters,49,48,43,53,44,53,57,49,USA,Mid,1950
+The Limited,Underwear,55,41,35,55,48,51,63,49,USA,Mid,1950
+Abercrombie Kids,Hats,49,43,39,58,50,54,63,50,USA,Mid,1955
+Abercrombie Kids,Socks,48,46,37,58,42,48,62,48,USA,Mid,1955
+Abercrombie Kids,Jeans,50,45,41,52,48,54,56,49,USA,Mid,1955
+Abercrombie Kids,Leggings,50,48,35,60,46,53,64,50,USA,Mid,1955
+Abercrombie Kids,T-Shirts,45,50,43,54,45,55,59,50,USA,Mid,1955
+H&M Conscious,Shoes,18,14,9,24,18,17,29,18,Sweden,Budget,1960
+H&M Conscious,Sweaters,19,16,10,30,19,19,34,21,Sweden,Budget,1960
+H&M Conscious,Socks,12,20,8,27,16,15,31,18,Sweden,Budget,1960
+H&M Conscious,Jeans,20,17,14,30,18,16,28,20,Sweden,Budget,1960
+H&M Conscious,T-Shirts,14,11,7,23,15,22,34,18,Sweden,Budget,1960
+Zara Women,Dresses,12,10,7,27,12,23,26,16,Spain,Budget,1965
+Zara Women,Socks,16,12,15,20,18,17,26,17,Spain,Budget,1965
+Zara Women,Leggings,16,11,7,20,14,23,26,16,Spain,Budget,1965
+Zara Women,Shoes,18,19,15,22,11,20,29,19,Spain,Budget,1965
+Zara Women,Jeans,10,14,12,21,16,18,27,16,Spain,Budget,1965
+Forever 21+,Leggings,17,12,7,30,10,15,35,18,USA,Budget,1970
+Forever 21+,Hats,17,12,6,20,10,25,31,17,USA,Budget,1970
+Forever 21+,Underwear,13,19,5,20,11,20,32,17,USA,Budget,1970
+Forever 21+,Jeans,14,20,5,26,13,25,34,19,USA,Budget,1970
+Forever 21+,Sweaters,15,18,12,21,19,20,25,18,USA,Budget,1970
+Shein Fashion,Underwear,17,17,15,26,17,22,26,20,China,Budget,1975
+Shein Fashion,Jeans,14,14,6,22,18,20,28,17,China,Budget,1975
+Shein Fashion,Sweaters,20,14,11,29,17,17,26,19,China,Budget,1975
+Shein Fashion,T-Shirts,14,13,6,29,20,21,27,18,China,Budget,1975
+Shein Fashion,Dresses,16,12,5,28,10,19,27,16,China,Budget,1975
+Boohoo,T-Shirts,15,12,14,25,20,16,31,19,UK,Budget,1980
+Boohoo,Jeans,20,19,8,27,14,15,25,18,UK,Budget,1980
+Boohoo,Underwear,13,16,5,23,19,15,32,17,UK,Budget,1980
+Boohoo,Socks,14,18,10,24,10,16,25,16,UK,Budget,1980
+Boohoo,Hats,11,11,5,20,18,24,33,17,UK,Budget,1980
+ASOS,Hats,16,11,7,29,14,16,32,17,UK,Budget,1985
+ASOS,T-Shirts,17,20,5,26,15,21,35,19,UK,Budget,1985
+ASOS,Jeans,14,17,12,23,17,23,26,18,UK,Budget,1985
+ASOS,Socks,19,13,6,24,12,18,32,17,UK,Budget,1985
+ASOS,Jackets,13,20,8,30,13,23,28,19,UK,Budget,1985
+Primark,T-Shirts,12,10,11,20,11,24,29,16,Ireland,Budget,1990
+Primark,Hats,20,20,12,27,11,19,31,20,Ireland,Budget,1990
+Primark,Underwear,12,13,10,20,10,15,25,15,Ireland,Budget,1990
+Primark,Dresses,13,14,12,22,18,16,34,18,Ireland,Budget,1990
+Primark,Jackets,10,10,15,26,13,18,27,17,Ireland,Budget,1990
+Mango,Jeans,12,14,13,26,12,19,29,17,Spain,Budget,1995
+Mango,Hats,12,19,6,23,15,25,30,18,Spain,Budget,1995
+Mango,Shoes,10,12,11,21,19,21,29,17,Spain,Budget,1995
+Mango,Sweaters,15,15,15,23,16,23,26,19,Spain,Budget,1995
+Mango,Jackets,12,17,9,24,17,23,25,18,Spain,Budget,1995
+New Look,Jackets,17,15,9,21,19,21,25,18,UK,Budget,2000
+New Look,Leggings,15,15,10,25,18,22,26,18,UK,Budget,2000
+New Look,T-Shirts,20,17,13,25,15,17,28,19,UK,Budget,2000
+New Look,Sweaters,13,16,8,23,10,21,26,16,UK,Budget,2000
+New Look,Hats,11,18,11,22,19,25,34,20,UK,Budget,2000
+C&A,Hats,12,19,10,23,10,22,26,17,Germany/Netherlands,Budget,2005
+C&A,Dresses,18,17,5,20,13,15,31,17,Germany/Netherlands,Budget,2005
+C&A,Leggings,16,15,5,30,10,15,35,18,Germany/Netherlands,Budget,2005
+C&A,T-Shirts,19,13,11,28,12,15,30,18,Germany/Netherlands,Budget,2005
+C&A,Underwear,11,13,14,24,16,22,29,18,Germany/Netherlands,Budget,2005
+Uniqlo,Sweaters,48,36,37,50,38,40,58,43,Japan,Budget/Mid,2010
+Uniqlo,Underwear,46,42,30,53,41,44,53,44,Japan,Budget/Mid,2010
+Uniqlo,Leggings,45,36,33,56,43,44,56,44,Japan,Budget/Mid,2010
+Uniqlo,Socks,44,40,31,52,42,42,59,44,Japan,Budget/Mid,2010
+Uniqlo,Jeans,44,45,30,59,43,44,52,45,Japan,Budget/Mid,2010
+Marks & Spencer,Socks,51,45,45,53,40,45,57,48,UK,Mid,2015
+Marks & Spencer,Sweaters,48,48,39,58,40,54,61,49,UK,Mid,2015
+Marks & Spencer,Jeans,54,43,44,54,41,52,55,49,UK,Mid,2015
+Marks & Spencer,T-Shirts,50,50,37,57,45,47,57,49,UK,Mid,2015
+Marks & Spencer,Leggings,46,44,43,55,49,47,57,48,UK,Mid,2015
+Next,T-Shirts,46,44,40,51,50,48,55,47,UK,Mid,1950
+Next,Leggings,45,49,40,54,44,49,59,48,UK,Mid,1950
+Next,Hats,48,49,42,50,43,46,56,47,UK,Mid,1950
+Next,Socks,48,44,36,56,50,51,64,49,UK,Mid,1950
+Next,Jeans,46,50,35,60,48,52,60,50,UK,Mid,1950
+Matalan,Underwear,16,19,13,27,14,24,26,19,UK,Budget,1955
+Matalan,Shoes,11,17,7,28,13,18,31,17,UK,Budget,1955
+Matalan,Jackets,13,19,13,30,13,17,29,19,UK,Budget,1955
+Matalan,Socks,12,13,5,30,20,21,34,19,UK,Budget,1955
+Matalan,T-Shirts,20,11,6,20,14,25,28,17,UK,Budget,1955
+Esprit,Socks,53,46,35,51,42,55,65,49,Germany,Mid,1960
+Esprit,Hats,47,50,44,50,44,52,62,49,Germany,Mid,1960
+Esprit,Leggings,45,41,35,59,47,54,59,48,Germany,Mid,1960
+Esprit,T-Shirts,46,47,38,52,45,49,57,47,Germany,Mid,1960
+Esprit,Sweaters,55,49,37,60,45,51,63,51,Germany,Mid,1960
+Mexx,Sweaters,55,45,35,58,42,54,59,49,Netherlands,Mid,1965
+Mexx,Socks,54,49,45,53,42,45,57,49,Netherlands,Mid,1965
+Mexx,Hats,50,49,39,51,40,54,65,49,Netherlands,Mid,1965
+Mexx,Leggings,55,50,45,59,50,48,65,53,Netherlands,Mid,1965
+Mexx,Shoes,52,45,38,59,45,49,61,49,Netherlands,Mid,1965
+Topshop,Jackets,53,49,44,50,40,51,62,49,UK,Mid,1970
+Topshop,Jeans,51,50,43,52,40,49,55,48,UK,Mid,1970
+Topshop,Socks,54,40,37,56,47,55,64,50,UK,Mid,1970
+Topshop,Hats,45,43,39,59,46,50,65,49,UK,Mid,1970
+Topshop,Leggings,49,49,44,51,40,50,65,49,UK,Mid,1970
+Dorothy Perkins,Jeans,51,46,43,56,41,54,64,50,UK,Mid,1975
+Dorothy Perkins,Sweaters,53,44,35,50,45,52,65,49,UK,Mid,1975
+Dorothy Perkins,Dresses,46,46,45,52,44,51,55,48,UK,Mid,1975
+Dorothy Perkins,Hats,49,43,45,58,40,50,61,49,UK,Mid,1975
+Dorothy Perkins,Underwear,53,46,43,60,46,49,60,51,UK,Mid,1975
+Wallis,Jeans,50,42,38,60,40,48,61,48,UK,Mid,1980
+Wallis,T-Shirts,52,45,39,54,46,48,60,49,UK,Mid,1980
+Wallis,Hats,50,41,35,52,45,46,62,47,UK,Mid,1980
+Wallis,Underwear,51,40,39,50,41,54,62,48,UK,Mid,1980
+Wallis,Sweaters,45,44,39,59,48,47,56,48,UK,Mid,1980
+Oasis,Underwear,16,14,14,28,16,19,29,19,UK,Budget,1985
+Oasis,Leggings,18,10,15,28,11,23,25,18,UK,Budget,1985
+Oasis,Dresses,11,13,13,29,17,24,31,19,UK,Budget,1985
+Oasis,Sweaters,13,14,9,26,15,20,25,17,UK,Budget,1985
+Oasis,Socks,14,17,15,20,17,20,34,19,UK,Budget,1985
+Burton,Dresses,50,46,35,56,41,47,64,48,UK,Mid,1990
+Burton,T-Shirts,45,41,37,57,42,52,58,47,UK,Mid,1990
+Burton,Leggings,51,42,41,51,49,55,62,50,UK,Mid,1990
+Burton,Socks,50,49,36,55,49,55,57,50,UK,Mid,1990
+Burton,Jeans,48,40,44,50,47,53,62,49,UK,Mid,1990
+Monsoon,Socks,52,48,36,52,49,51,56,49,UK,Mid,1995
+Monsoon,Dresses,45,41,40,56,40,45,63,47,UK,Mid,1995
+Monsoon,Hats,52,47,42,56,50,54,62,51,UK,Mid,1995
+Monsoon,Shoes,46,45,44,60,41,51,58,49,UK,Mid,1995
+Monsoon,Leggings,53,46,40,60,42,46,56,49,UK,Mid,1995
+River Island,Jeans,14,11,5,29,10,19,30,16,UK,Budget,2000
+River Island,T-Shirts,17,10,12,23,16,25,30,19,UK,Budget,2000
+River Island,Underwear,20,19,13,23,17,20,34,20,UK,Budget,2000
+River Island,Hats,12,13,6,24,10,21,33,17,UK,Budget,2000
+River Island,Shoes,13,10,7,28,10,18,28,16,UK,Budget,2000
+Miss Selfridge,Sweaters,49,46,36,55,45,47,57,47,UK,Mid,2005
+Miss Selfridge,Socks,45,41,37,50,40,53,57,46,UK,Mid,2005
+Miss Selfridge,Jeans,52,43,44,58,41,50,57,49,UK,Mid,2005
+Miss Selfridge,T-Shirts,50,43,37,60,49,52,57,49,UK,Mid,2005
+Miss Selfridge,Shoes,50,41,38,56,41,49,55,47,UK,Mid,2005
+Evans,Jeans,53,47,45,50,40,48,55,48,UK,Mid,2010
+Evans,Leggings,49,49,40,52,46,51,55,48,UK,Mid,2010
+Evans,T-Shirts,48,40,44,52,45,53,55,48,UK,Mid,2010
+Evans,Hats,55,45,39,59,45,45,62,50,UK,Mid,2010
+Evans,Underwear,51,41,41,56,40,46,62,48,UK,Mid,2010
+Plus Two,Leggings,53,47,43,51,44,55,65,51,UK,Mid,2015
+Plus Two,Socks,55,40,38,56,44,47,65,49,UK,Mid,2015
+Plus Two,T-Shirts,50,40,35,54,47,49,61,48,UK,Mid,2015
+Plus Two,Sweaters,54,48,35,60,46,54,62,51,UK,Mid,2015
+Plus Two,Jeans,45,46,43,55,50,51,57,49,UK,Mid,2015
+Littlewoods,Hats,46,40,35,54,41,55,58,47,UK,Mid,1950
+Littlewoods,Socks,45,43,35,58,49,49,60,48,UK,Mid,1950
+Littlewoods,Jackets,54,43,37,52,42,45,65,48,UK,Mid,1950
+Littlewoods,Dresses,53,48,38,60,40,48,56,49,UK,Mid,1950
+Littlewoods,Jeans,49,47,37,60,44,48,56,48,UK,Mid,1950
+BHS,Jeans,52,47,39,55,45,50,61,49,UK,Mid,1955
+BHS,Shoes,45,50,40,53,40,52,57,48,UK,Mid,1955
+BHS,Leggings,49,40,36,58,47,52,60,48,UK,Mid,1955
+BHS,Dresses,55,45,42,53,46,54,56,50,UK,Mid,1955
+BHS,Socks,50,50,35,60,50,55,58,51,UK,Mid,1955
+Debenhams,Dresses,50,43,43,59,46,45,63,49,UK,Mid,1960
+Debenhams,Sweaters,49,41,36,56,41,53,64,48,UK,Mid,1960
+Debenhams,Shoes,49,45,45,54,49,48,65,50,UK,Mid,1960
+Debenhams,Socks,49,50,44,54,48,52,61,51,UK,Mid,1960
+Debenhams,Underwear,49,47,37,58,40,49,55,47,UK,Mid,1960
+John Lewis,T-Shirts,51,41,39,59,46,45,65,49,UK,Mid,1965
+John Lewis,Jeans,53,46,42,57,47,47,58,50,UK,Mid,1965
+John Lewis,Sweaters,47,49,38,58,41,54,55,48,UK,Mid,1965
+John Lewis,Underwear,52,47,43,54,47,51,61,50,UK,Mid,1965
+John Lewis,Shoes,48,46,35,53,45,46,61,47,UK,Mid,1965
+Peter Jones,Hats,53,48,37,52,43,48,59,48,UK,Mid,1970
+Peter Jones,T-Shirts,47,49,42,50,50,51,65,50,UK,Mid,1970
+Peter Jones,Shoes,50,41,42,53,48,52,62,49,UK,Mid,1970
+Peter Jones,Dresses,49,45,37,55,43,46,58,47,UK,Mid,1970
+Peter Jones,Jeans,54,44,35,55,43,48,62,48,UK,Mid,1970
+Harrods,Shoes,47,48,42,56,41,47,60,48,UK,Mid,1975
+Harrods,Leggings,48,49,36,52,47,51,65,49,UK,Mid,1975
+Harrods,Dresses,50,40,36,53,44,45,58,46,UK,Mid,1975
+Harrods,Socks,45,49,36,54,40,51,55,47,UK,Mid,1975
+Harrods,T-Shirts,46,43,40,59,41,48,56,47,UK,Mid,1975
+Selfridges,Jeans,48,48,40,50,46,49,56,48,UK,Mid,1980
+Selfridges,Hats,52,48,39,52,44,48,61,49,UK,Mid,1980
+Selfridges,T-Shirts,54,42,45,59,40,52,59,50,UK,Mid,1980
+Selfridges,Socks,51,40,42,52,40,53,59,48,UK,Mid,1980
+Selfridges,Sweaters,55,43,42,59,47,55,57,51,UK,Mid,1980
+Liberty,Dresses,53,44,41,51,48,50,57,49,UK,Mid,1985
+Liberty,Sweaters,50,48,43,54,44,49,58,49,UK,Mid,1985
+Liberty,Underwear,53,41,37,54,50,45,56,48,UK,Mid,1985
+Liberty,T-Shirts,47,41,42,58,47,52,56,49,UK,Mid,1985
+Liberty,Shoes,49,44,39,56,43,48,60,48,UK,Mid,1985
+Fenwick,Socks,45,42,41,50,44,55,65,48,UK,Mid,1990
+Fenwick,Shoes,52,42,36,54,50,52,59,49,UK,Mid,1990
+Fenwick,T-Shirts,50,50,36,54,47,52,56,49,UK,Mid,1990
+Fenwick,Sweaters,46,40,42,58,49,52,59,49,UK,Mid,1990
+Fenwick,Leggings,53,42,42,59,46,51,58,50,UK,Mid,1990
+Harvey Nichols,Dresses,38,34,45,45,34,26,46,38,UK,Luxury,1995
+Harvey Nichols,Leggings,36,32,46,42,36,35,46,39,UK,Luxury,1995
+Harvey Nichols,Underwear,44,36,53,46,30,33,46,41,UK,Luxury,1995
+Harvey Nichols,Shoes,35,32,55,44,32,32,47,39,UK,Luxury,1995
+Harvey Nichols,Hats,39,40,54,42,33,27,48,40,UK,Luxury,1995
+Fortnum & Mason,Jackets,43,30,55,43,37,29,53,41,UK,Luxury,2000
+Fortnum & Mason,Dresses,37,36,54,45,39,25,53,41,UK,Luxury,2000
+Fortnum & Mason,Jeans,45,39,46,40,33,30,52,40,UK,Luxury,2000
+Fortnum & Mason,Sweaters,38,37,48,50,38,28,54,41,UK,Luxury,2000
+Fortnum & Mason,T-Shirts,36,37,55,49,34,35,45,41,UK,Luxury,2000
+Swaine Adeney Brigg,Shoes,37,33,49,50,38,33,47,41,UK,Luxury,2005
+Swaine Adeney Brigg,Hats,45,35,53,45,38,35,50,43,UK,Luxury,2005
+Swaine Adeney Brigg,Dresses,44,37,55,42,40,32,50,42,UK,Luxury,2005
+Swaine Adeney Brigg,T-Shirts,35,38,46,42,37,27,46,38,UK,Luxury,2005
+Swaine Adeney Brigg,Jackets,44,37,48,41,38,29,54,41,UK,Luxury,2005
+Henry Rose,T-Shirts,52,43,39,50,41,53,57,47,USA,Premium,2010
+Henry Rose,Underwear,46,44,42,50,46,45,55,46,USA,Premium,2010
+Henry Rose,Socks,50,42,35,54,47,45,56,47,USA,Premium,2010
+Henry Rose,Jeans,51,42,39,54,44,47,60,48,USA,Premium,2010
+Henry Rose,Dresses,48,40,43,57,42,52,64,49,USA,Premium,2010
+Athena Calderone,Hats,47,41,39,58,42,45,62,47,USA,Premium,2015
+Athena Calderone,Underwear,49,47,45,55,44,52,58,50,USA,Premium,2015
+Athena Calderone,Socks,49,45,42,58,46,47,64,50,USA,Premium,2015
+Athena Calderone,Jeans,51,47,35,55,42,53,60,49,USA,Premium,2015
+Athena Calderone,Shoes,55,48,45,60,47,52,56,51,USA,Premium,2015
+Gardenia,Jackets,52,46,36,58,45,50,61,49,USA,Premium,1950
+Gardenia,Leggings,53,46,39,58,48,45,58,49,USA,Premium,1950
+Gardenia,Shoes,47,43,45,54,47,50,60,49,USA,Premium,1950
+Gardenia,Dresses,50,47,38,56,49,47,57,49,USA,Premium,1950
+Gardenia,Jeans,51,47,40,58,47,45,65,50,USA,Premium,1950
+Jasmine,Leggings,51,45,41,58,40,46,64,49,USA,Premium,1955
+Jasmine,Shoes,50,48,35,51,41,50,65,48,USA,Premium,1955
+Jasmine,Sweaters,51,46,35,56,47,47,61,49,USA,Premium,1955
+Jasmine,Dresses,48,47,35,58,41,46,64,48,USA,Premium,1955
+Jasmine,Underwear,48,46,41,55,43,49,62,49,USA,Premium,1955
+Larchmont,Shoes,52,42,44,52,44,51,64,49,USA,Premium,1960
+Larchmont,Socks,46,41,45,56,43,48,64,49,USA,Premium,1960
+Larchmont,Leggings,49,50,45,58,50,46,63,51,USA,Premium,1960
+Larchmont,Hats,51,41,45,57,50,50,55,49,USA,Premium,1960
+Larchmont,Sweaters,45,47,36,58,44,45,59,47,USA,Premium,1960
+Mint Julep,Underwear,55,46,36,55,43,51,60,49,USA,Premium,1965
+Mint Julep,Dresses,49,46,45,51,43,55,64,50,USA,Premium,1965
+Mint Julep,Hats,53,42,40,60,48,50,56,49,USA,Premium,1965
+Mint Julep,Shoes,51,44,39,58,50,47,60,49,USA,Premium,1965
+Mint Julep,Leggings,55,47,38,50,45,45,65,49,USA,Premium,1965
+Narsissist,Jeans,52,42,39,54,48,52,62,49,USA,Premium,1970
+Narsissist,Leggings,50,42,40,54,43,50,63,48,USA,Premium,1970
+Narsissist,Underwear,48,48,43,56,48,47,61,50,USA,Premium,1970
+Narsissist,Jackets,49,43,45,58,43,55,57,50,USA,Premium,1970
+Narsissist,T-Shirts,46,45,35,60,46,45,58,47,USA,Premium,1970
+Olivia Von Halle,Underwear,54,43,41,55,50,46,57,49,USA,Premium,1975
+Olivia Von Halle,Jackets,46,47,44,54,42,51,63,49,USA,Premium,1975
+Olivia Von Halle,Hats,46,41,39,50,48,55,59,48,USA,Premium,1975
+Olivia Von Halle,Sweaters,47,50,42,54,47,49,57,49,USA,Premium,1975
+Olivia Von Halle,Shoes,46,49,43,59,43,48,56,49,USA,Premium,1975
+Riz,Shoes,45,48,41,60,49,53,61,51,USA,Premium,1980
+Riz,Leggings,49,47,35,50,42,45,64,47,USA,Premium,1980
+Riz,Sweaters,48,45,43,57,41,50,62,49,USA,Premium,1980
+Riz,T-Shirts,48,44,35,51,44,46,64,47,USA,Premium,1980
+Riz,Jeans,55,47,35,59,47,50,63,50,USA,Premium,1980
+Saten,Dresses,54,48,40,53,42,52,65,50,USA,Premium,1985
+Saten,Socks,47,50,35,56,48,45,62,49,USA,Premium,1985
+Saten,Underwear,53,46,35,51,50,53,63,50,USA,Premium,1985
+Saten,Jeans,49,50,38,56,44,47,62,49,USA,Premium,1985
+Saten,Sweaters,50,45,39,60,44,50,56,49,USA,Premium,1985
+Siggy,Underwear,45,48,37,57,47,52,56,48,USA,Premium,1990
+Siggy,Jeans,46,44,35,50,41,50,62,46,USA,Premium,1990
+Siggy,Sweaters,49,50,40,55,46,50,64,50,USA,Premium,1990
+Siggy,Leggings,52,46,36,53,45,52,60,49,USA,Premium,1990
+Siggy,Jackets,50,46,42,54,41,47,59,48,USA,Premium,1990
+Travis Mathew,Underwear,55,46,44,56,45,51,55,50,USA,Mid,1995
+Travis Mathew,Jackets,46,40,45,56,44,53,62,49,USA,Mid,1995
+Travis Mathew,Shoes,45,43,40,58,48,49,64,49,USA,Mid,1995
+Travis Mathew,Socks,46,49,41,60,42,45,60,49,USA,Mid,1995
+Travis Mathew,Leggings,48,49,44,58,42,51,56,49,USA,Mid,1995
+Patagonia,Sweaters,45,50,39,55,42,53,59,49,USA,Premium,2000
+Patagonia,Underwear,47,46,35,59,42,51,63,49,USA,Premium,2000
+Patagonia,Hats,47,43,36,59,49,55,60,49,USA,Premium,2000
+Patagonia,Jackets,54,43,35,59,46,53,59,49,USA,Premium,2000
+Patagonia,Socks,48,40,36,53,42,55,65,48,USA,Premium,2000
+Everlane,Shoes,50,50,42,52,42,54,63,50,USA,Mid/Premium,2005
+Everlane,Jackets,45,48,37,58,41,47,65,48,USA,Mid/Premium,2005
+Everlane,Leggings,53,40,42,55,43,53,63,49,USA,Mid/Premium,2005
+Everlane,Dresses,49,42,45,50,46,48,59,48,USA,Mid/Premium,2005
+Everlane,Jeans,49,47,35,55,42,46,60,47,USA,Mid/Premium,2005
+Reformation,Jackets,55,41,45,52,40,51,62,49,USA,Premium,2010
+Reformation,Sweaters,54,48,41,57,45,51,65,51,USA,Premium,2010
+Reformation,T-Shirts,54,42,44,55,44,50,60,49,USA,Premium,2010
+Reformation,Shoes,53,47,35,59,44,50,55,49,USA,Premium,2010
+Reformation,Underwear,45,43,38,50,44,53,65,48,USA,Premium,2010
+Eileen Fisher,Sweaters,49,42,41,57,47,55,55,49,USA,Premium,2015
+Eileen Fisher,T-Shirts,46,41,38,53,49,47,61,47,USA,Premium,2015
+Eileen Fisher,Underwear,46,50,41,55,47,52,56,49,USA,Premium,2015
+Eileen Fisher,Dresses,52,46,44,57,43,46,64,50,USA,Premium,2015
+Eileen Fisher,Hats,46,42,42,56,48,49,64,49,USA,Premium,2015
+Allbirds,Jeans,52,49,43,50,44,49,56,49,USA,Mid/Premium,1950
+Allbirds,Dresses,49,45,45,57,46,46,55,49,USA,Mid/Premium,1950
+Allbirds,Underwear,49,46,36,58,50,55,64,51,USA,Mid/Premium,1950
+Allbirds,Hats,55,47,40,53,47,46,60,49,USA,Mid/Premium,1950
+Allbirds,Sweaters,50,40,45,52,44,50,59,48,USA,Mid/Premium,1950
+Tentree,T-Shirts,52,42,41,51,41,50,57,47,Canada,Mid/Premium,1955
+Tentree,Socks,45,49,38,53,40,50,57,47,Canada,Mid/Premium,1955
+Tentree,Leggings,46,50,36,53,49,50,56,48,Canada,Mid/Premium,1955
+Tentree,Sweaters,55,50,41,60,43,54,55,51,Canada,Mid/Premium,1955
+Tentree,Dresses,45,41,45,57,44,48,60,48,Canada,Mid/Premium,1955
+The North Face,Socks,47,50,44,56,47,46,61,50,USA,Mid,1960
+The North Face,Jeans,49,46,44,60,47,52,61,51,USA,Mid,1960
+The North Face,Dresses,50,42,45,57,43,51,55,49,USA,Mid,1960
+The North Face,Shoes,53,48,35,60,41,48,62,49,USA,Mid,1960
+The North Face,Underwear,53,50,44,52,46,50,56,50,USA,Mid,1960
+Columbia,Hats,50,43,38,50,45,49,58,47,USA,Mid,1965
+Columbia,T-Shirts,46,41,43,56,40,55,57,48,USA,Mid,1965
+Columbia,Socks,54,49,44,53,45,51,57,50,USA,Mid,1965
+Columbia,Underwear,52,46,43,58,50,49,58,50,USA,Mid,1965
+Columbia,Jeans,46,49,39,60,47,52,62,50,USA,Mid,1965
+Merrell,Shoes,51,46,41,50,45,55,58,49,USA,Mid,1970
+Merrell,Sweaters,46,44,44,59,50,53,64,51,USA,Mid,1970
+Merrell,Dresses,47,47,35,59,49,50,62,49,USA,Mid,1970
+Merrell,Underwear,49,47,45,59,49,54,62,52,USA,Mid,1970
+Merrell,T-Shirts,51,42,35,59,50,49,65,50,USA,Mid,1970
+Arc'teryx,Jackets,52,47,44,52,43,52,63,50,Canada,Premium,1975
+Arc'teryx,Dresses,49,48,37,52,46,51,61,49,Canada,Premium,1975
+Arc'teryx,T-Shirts,50,48,42,55,47,52,62,50,Canada,Premium,1975
+Arc'teryx,Jeans,46,44,40,52,40,45,64,47,Canada,Premium,1975
+Arc'teryx,Underwear,47,41,36,52,41,49,63,47,Canada,Premium,1975
+Madewell,T-Shirts,51,46,39,57,46,46,60,49,USA,Mid/Premium,1980
+Madewell,Jeans,47,47,37,55,42,46,58,47,USA,Mid/Premium,1980
+Madewell,Socks,51,47,39,57,46,53,59,50,USA,Mid/Premium,1980
+Madewell,Sweaters,52,44,40,54,43,50,61,49,USA,Mid/Premium,1980
+Madewell,Leggings,52,41,38,57,43,48,63,48,USA,Mid/Premium,1980
+Stella McCartney,T-Shirts,45,34,55,47,34,32,54,43,UK,Luxury,1985
+Stella McCartney,Shoes,42,34,51,47,33,29,53,41,UK,Luxury,1985
+Stella McCartney,Socks,39,39,53,49,40,25,45,41,UK,Luxury,1985
+Stella McCartney,Hats,39,38,55,40,36,35,53,42,UK,Luxury,1985
+Stella McCartney,Jeans,40,30,49,45,38,27,50,39,UK,Luxury,1985
+Gucci,T-Shirts,35,38,53,41,36,33,52,41,Italy,Luxury,1990
+Gucci,Jeans,39,38,52,42,34,35,47,41,Italy,Luxury,1990
+Gucci,Socks,38,34,52,40,30,31,47,38,Italy,Luxury,1990
+Gucci,Jackets,35,36,50,46,31,25,53,39,Italy,Luxury,1990
+Gucci,Shoes,44,34,48,44,32,27,47,39,Italy,Luxury,1990
+Prada,Socks,41,35,53,40,38,35,47,41,Italy,Luxury,1995
+Prada,Dresses,37,31,52,46,33,31,46,39,Italy,Luxury,1995
+Prada,Underwear,43,32,51,44,31,27,53,40,Italy,Luxury,1995
+Prada,Sweaters,41,37,53,40,38,35,46,41,Italy,Luxury,1995
+Prada,Shoes,40,40,48,50,32,25,46,40,Italy,Luxury,1995
+Burberry,Leggings,41,36,52,45,37,33,50,42,UK,Luxury,2000
+Burberry,Underwear,36,37,50,42,35,35,54,41,UK,Luxury,2000
+Burberry,Jackets,43,32,47,45,35,30,55,41,UK,Luxury,2000
+Burberry,Hats,38,40,51,41,39,30,54,41,UK,Luxury,2000
+Burberry,T-Shirts,39,35,49,43,35,25,48,39,UK,Luxury,2000
+Christian Dior,Leggings,38,33,48,47,39,32,49,40,France,Luxury,2005
+Christian Dior,Sweaters,38,31,47,50,35,26,50,39,France,Luxury,2005
+Christian Dior,Underwear,39,37,54,50,38,32,47,42,France,Luxury,2005
+Christian Dior,Hats,40,33,48,48,32,35,52,41,France,Luxury,2005
+Christian Dior,Jeans,38,37,45,40,36,25,53,39,France,Luxury,2005
+Louis Vuitton,Jeans,36,36,47,43,33,33,55,40,France,Luxury,2010
+Louis Vuitton,Shoes,39,30,53,40,35,31,52,40,France,Luxury,2010
+Louis Vuitton,Hats,44,31,47,46,30,31,50,39,France,Luxury,2010
+Louis Vuitton,Jackets,39,32,45,42,35,32,54,39,France,Luxury,2010
+Louis Vuitton,Leggings,42,36,51,45,36,28,49,41,France,Luxury,2010
+Chanel,Leggings,44,33,55,49,39,28,52,42,France,Luxury,2015
+Chanel,Socks,38,30,47,48,31,27,46,38,France,Luxury,2015
+Chanel,Sweaters,45,38,46,50,38,29,53,42,France,Luxury,2015
+Chanel,Jackets,45,37,46,49,39,27,52,42,France,Luxury,2015
+Chanel,Underwear,40,39,45,47,31,33,51,40,France,Luxury,2015
+Hermès,Leggings,36,30,45,44,31,28,52,38,France,Luxury,1950
+Hermès,Sweaters,44,40,46,44,33,28,53,41,France,Luxury,1950
+Hermès,Underwear,43,31,51,43,40,26,47,40,France,Luxury,1950
+Hermès,Shoes,43,36,49,48,36,35,49,42,France,Luxury,1950
+Hermès,T-Shirts,41,40,54,50,30,30,51,42,France,Luxury,1950
+Balenciaga,Jeans,43,40,53,49,32,26,48,41,Spain,Luxury,1955
+Balenciaga,T-Shirts,39,36,52,43,36,29,55,41,Spain,Luxury,1955
+Balenciaga,Jackets,39,35,53,41,38,27,47,40,Spain,Luxury,1955
+Balenciaga,Underwear,36,37,51,42,33,26,50,39,Spain,Luxury,1955
+Balenciaga,Sweaters,41,34,45,46,32,32,47,39,Spain,Luxury,1955
+Versace,Jeans,44,30,48,48,35,35,45,40,Italy,Luxury,1960
+Versace,Leggings,42,34,51,48,30,26,47,39,Italy,Luxury,1960
+Versace,Socks,35,40,55,40,30,27,55,40,Italy,Luxury,1960
+Versace,Jackets,41,40,55,42,36,31,53,42,Italy,Luxury,1960
+Versace,Dresses,35,33,48,43,30,29,51,38,Italy,Luxury,1960
+Armani,Leggings,42,40,50,40,30,32,54,41,Italy,Luxury,1965
+Armani,Shoes,43,36,55,48,40,28,45,42,Italy,Luxury,1965
+Armani,Hats,41,30,53,45,36,31,51,41,Italy,Luxury,1965
+Armani,Jeans,40,40,51,45,33,31,55,42,Italy,Luxury,1965
+Armani,Underwear,45,35,49,40,30,34,45,39,Italy,Luxury,1965

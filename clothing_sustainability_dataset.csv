@@ -1,0 +1,103 @@
+Brand,Material Score,Supply Chain Transparency Score,Certifications Score,Carbon Footprint Score,Packaging Score,Labor Practices Score,Water Usage Score,Overall Sustainability Score,Country of Origin,Price Range,Product Category,Year Established
+Abercrombie & Fitch,50,45,40,55,45,50,60,49,USA,Mid,Brand,1950
+Hollister,50,45,40,55,45,50,60,49,USA,Mid,Brand,1955
+Aeropostale,15,15,10,25,15,20,30,18,USA,Budget,Brand,1960
+Ann Taylor,50,45,40,55,45,50,60,49,USA,Mid,Brand,1965
+Talbots,50,45,40,55,45,50,60,49,USA,Mid,Brand,1970
+Brooks Brothers,50,45,40,55,45,50,60,49,USA,Mid,Brand,1975
+J. Crew,50,45,40,55,45,50,60,49,USA,Mid,Brand,1980
+Nordstrom,50,45,40,55,45,50,60,49,USA,Mid,Brand,1985
+Old Navy,15,15,10,25,15,20,30,18,USA,Budget,Brand,1990
+Kate Spade,40,35,50,45,35,30,50,40,USA,Luxury,Brand,1995
+Tory Burch,40,35,50,45,35,30,50,40,USA,Luxury,Brand,2000
+Ralph Lauren,50,45,40,55,45,50,60,49,USA,Premium,Brand,2005
+Tommy Hilfiger,50,45,40,55,45,50,60,49,USA,Mid,Brand,2010
+Michael Kors,40,35,50,45,35,30,50,40,USA,Luxury,Brand,2015
+Coach,40,35,50,45,35,30,50,40,USA,Luxury,Brand,1950
+Juicy Couture,40,35,50,45,35,30,50,40,USA,Luxury,Brand,1955
+Express,50,45,40,55,45,50,60,49,USA,Mid,Brand,1960
+UGG,50,45,40,55,45,50,60,49,USA,Mid,Brand,1965
+Lane Bryant,50,45,40,55,45,50,60,49,USA,Mid,Brand,1970
+Kohl's,50,45,40,55,45,50,60,49,USA,Mid,Brand,1975
+American Apparel,15,15,10,25,15,20,30,18,USA,Budget,Brand,1980
+Liz Claiborne,50,45,40,55,45,50,60,49,USA,Mid,Brand,1985
+Karen Millen,40,35,50,45,35,30,50,40,UK,Luxury,Brand,1990
+Fossil,50,45,40,55,45,50,60,49,USA,Mid,Brand,1995
+Steve Madden,50,45,40,55,45,50,60,49,USA,Mid,Brand,2000
+Nine West,50,45,40,55,45,50,60,49,USA,Mid,Brand,2005
+Guess,50,45,40,55,45,50,60,49,USA,Mid,Brand,2010
+Lauren Ralph Lauren,50,45,40,55,45,50,60,49,USA,Premium,Brand,2015
+The Limited,50,45,40,55,45,50,60,49,USA,Mid,Brand,1950
+Abercrombie Kids,50,45,40,55,45,50,60,49,USA,Mid,Brand,1955
+H&M Conscious,15,15,10,25,15,20,30,18,Sweden,Budget,Brand,1960
+Zara Women,15,15,10,25,15,20,30,18,Spain,Budget,Brand,1965
+Forever 21+,15,15,10,25,15,20,30,18,USA,Budget,Brand,1970
+Shein Fashion,15,15,10,25,15,20,30,18,China,Budget,Brand,1975
+Boohoo,15,15,10,25,15,20,30,18,UK,Budget,Brand,1980
+ASOS,15,15,10,25,15,20,30,18,UK,Budget,Brand,1985
+Primark,15,15,10,25,15,20,30,18,Ireland,Budget,Brand,1990
+Mango,15,15,10,25,15,20,30,18,Spain,Budget,Brand,1995
+New Look,15,15,10,25,15,20,30,18,UK,Budget,Brand,2000
+C&A,15,15,10,25,15,20,30,18,Germany/Netherlands,Budget,Brand,2005
+Uniqlo,45,40,35,55,40,45,55,45,Japan,Budget/Mid,Brand,2010
+Marks & Spencer,50,45,40,55,45,50,60,49,UK,Mid,Brand,2015
+Next,50,45,40,55,45,50,60,49,UK,Mid,Brand,1950
+Matalan,15,15,10,25,15,20,30,18,UK,Budget,Brand,1955
+Esprit,50,45,40,55,45,50,60,49,Germany,Mid,Brand,1960
+Mexx,50,45,40,55,45,50,60,49,Netherlands,Mid,Brand,1965
+Topshop,50,45,40,55,45,50,60,49,UK,Mid,Brand,1970
+Dorothy Perkins,50,45,40,55,45,50,60,49,UK,Mid,Brand,1975
+Wallis,50,45,40,55,45,50,60,49,UK,Mid,Brand,1980
+Oasis,15,15,10,25,15,20,30,18,UK,Budget,Brand,1985
+Burton,50,45,40,55,45,50,60,49,UK,Mid,Brand,1990
+Monsoon,50,45,40,55,45,50,60,49,UK,Mid,Brand,1995
+River Island,15,15,10,25,15,20,30,18,UK,Budget,Brand,2000
+Miss Selfridge,50,45,40,55,45,50,60,49,UK,Mid,Brand,2005
+Evans,50,45,40,55,45,50,60,49,UK,Mid,Brand,2010
+Plus Two,50,45,40,55,45,50,60,49,UK,Mid,Brand,2015
+Littlewoods,50,45,40,55,45,50,60,49,UK,Mid,Brand,1950
+BHS,50,45,40,55,45,50,60,49,UK,Mid,Brand,1955
+Debenhams,50,45,40,55,45,50,60,49,UK,Mid,Brand,1960
+John Lewis,50,45,40,55,45,50,60,49,UK,Mid,Brand,1965
+Peter Jones,50,45,40,55,45,50,60,49,UK,Mid,Brand,1970
+Harrods,50,45,40,55,45,50,60,49,UK,Mid,Brand,1975
+Selfridges,50,45,40,55,45,50,60,49,UK,Mid,Brand,1980
+Liberty,50,45,40,55,45,50,60,49,UK,Mid,Brand,1985
+Fenwick,50,45,40,55,45,50,60,49,UK,Mid,Brand,1990
+Harvey Nichols,40,35,50,45,35,30,50,40,UK,Luxury,Brand,1995
+Fortnum & Mason,40,35,50,45,35,30,50,40,UK,Luxury,Brand,2000
+Swaine Adeney Brigg,40,35,50,45,35,30,50,40,UK,Luxury,Brand,2005
+Henry Rose,50,45,40,55,45,50,60,49,USA,Premium,Brand,2010
+Athena Calderone,50,45,40,55,45,50,60,49,USA,Premium,Brand,2015
+Gardenia,50,45,40,55,45,50,60,49,USA,Premium,Brand,1950
+Jasmine,50,45,40,55,45,50,60,49,USA,Premium,Brand,1955
+Larchmont,50,45,40,55,45,50,60,49,USA,Premium,Brand,1960
+Mint Julep,50,45,40,55,45,50,60,49,USA,Premium,Brand,1965
+Narsissist,50,45,40,55,45,50,60,49,USA,Premium,Brand,1970
+Olivia Von Halle,50,45,40,55,45,50,60,49,USA,Premium,Brand,1975
+Riz,50,45,40,55,45,50,60,49,USA,Premium,Brand,1980
+Saten,50,45,40,55,45,50,60,49,USA,Premium,Brand,1985
+Siggy,50,45,40,55,45,50,60,49,USA,Premium,Brand,1990
+Travis Mathew,50,45,40,55,45,50,60,49,USA,Mid,Brand,1995
+Patagonia,50,45,40,55,45,50,60,49,USA,Premium,Brand,2000
+Everlane,50,45,40,55,45,50,60,49,USA,Mid/Premium,Brand,2005
+Reformation,50,45,40,55,45,50,60,49,USA,Premium,Brand,2010
+Eileen Fisher,50,45,40,55,45,50,60,49,USA,Premium,Brand,2015
+Allbirds,50,45,40,55,45,50,60,49,USA,Mid/Premium,Brand,1950
+Tentree,50,45,40,55,45,50,60,49,Canada,Mid/Premium,Brand,1955
+The North Face,50,45,40,55,45,50,60,49,USA,Mid,Brand,1960
+Columbia,50,45,40,55,45,50,60,49,USA,Mid,Brand,1965
+Merrell,50,45,40,55,45,50,60,49,USA,Mid,Brand,1970
+Arc'teryx,50,45,40,55,45,50,60,49,Canada,Premium,Brand,1975
+Madewell,50,45,40,55,45,50,60,49,USA,Mid/Premium,Brand,1980
+Stella McCartney,40,35,50,45,35,30,50,40,UK,Luxury,Brand,1985
+Gucci,40,35,50,45,35,30,50,40,Italy,Luxury,Brand,1990
+Prada,40,35,50,45,35,30,50,40,Italy,Luxury,Brand,1995
+Burberry,40,35,50,45,35,30,50,40,UK,Luxury,Brand,2000
+Christian Dior,40,35,50,45,35,30,50,40,France,Luxury,Brand,2005
+Louis Vuitton,40,35,50,45,35,30,50,40,France,Luxury,Brand,2010
+Chanel,40,35,50,45,35,30,50,40,France,Luxury,Brand,2015
+Hermès,40,35,50,45,35,30,50,40,France,Luxury,Brand,1950
+Balenciaga,40,35,50,45,35,30,50,40,Spain,Luxury,Brand,1955
+Versace,40,35,50,45,35,30,50,40,Italy,Luxury,Brand,1960
+Armani,40,35,50,45,35,30,50,40,Italy,Luxury,Brand,1965

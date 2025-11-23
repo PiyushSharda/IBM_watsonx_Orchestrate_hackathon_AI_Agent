@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>SustainAI Score</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+    </style>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#13eca4",
+              "background-light": "#f6f8f7",
+              "background-dark": "#10221c",
+            },
+            fontFamily: {
+              "display": ["Space Grotesk", "sans-serif"]
+            },
+            borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+</head>
+<body class="font-display bg-background-light dark:bg-background-dark text-[#161616] dark:text-white">
+<div class="relative flex h-auto min-h-screen w-full flex-col overflow-x-hidden">
+<div class="layout-container flex h-full grow flex-col">
+<div class="mx-auto w-full max-w-5xl px-4 py-5 sm:px-6 lg:px-8">
+<header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-black/10 dark:border-white/10 px-4 py-3 sm:px-6">
+<div class="flex items-center gap-4 text-white">
+<div class="h-6 w-6 text-primary">
+<svg fill="currentColor" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1.53 14.62c-3.2-1.33-4.11-5.18-1.88-7.82.72-.85 1.7-1.43 2.8-1.68 1.11-.25 2.27-.07 3.3.43.91.44 1.69 1.13 2.26 2 .57.87.89 1.9.91 2.96.02 1.06-.26 2.11-.82 3.03-.56.92-1.39 1.63-2.39 2.06-1.12.48-2.33.6-3.52.41-.05-.01-.1-.02-.15-.03l-1.42 1.42c-.4.4-1.05.39-1.44 0-.4-.4-.39-1.05 0-1.44l1.3-1.3c-.02-.05-.04-.1-.06-.15zm1.53-1.12c2.06.85 4.29-.02 5.14-2.08.85-2.06-.02-4.29-2.08-5.14-2.06-.85-4.29.02-5.14 2.08-.85 2.06.02 4.29 2.08 5.14z"></path>
+</svg>
+</div>
+<h2 class="text-black dark:text-white text-lg font-bold leading-tight tracking-[-0.015em]">SustainAI Score</h2>
+</div>
+<nav class="hidden items-center gap-9 md:flex">
+<a class="text-black dark:text-white text-sm font-medium leading-normal hover:text-primary transition-colors" href="#">Home</a>
+<a class="text-black/70 dark:text-white/70 text-sm font-medium leading-normal hover:text-primary transition-colors" href="#">About</a>
+<a class="text-black/70 dark:text-white/70 text-sm font-medium leading-normal hover:text-primary transition-colors" href="#">Methodology</a>
+</nav>
+</header>
+<main class="mt-10 flex flex-col items-center gap-8 px-4 sm:px-6">
+<div class="flex max-w-2xl flex-col gap-3 text-center">
+<p class="text-black dark:text-white text-4xl font-black leading-tight tracking-[-0.033em] md:text-5xl">Check the Sustainability Score of Your Fashion</p>
+<p class="text-black/60 dark:text-white/60 text-base font-normal leading-normal">Enter a brand or product to get an instant analysis powered by IBM watsonx Orchestrate.</p>
+</div>
+<div class="w-full max-w-2xl">
+<div class="relative w-full">
+<div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-4 text-black/50 dark:text-white/50">
+<span class="material-symbols-outlined">search</span>
+</div>
+<input class="form-input h-14 w-full min-w-0 flex-1 resize-none overflow-hidden rounded-xl border border-black/10 bg-white dark:border-white/10 dark:bg-background-dark text-black dark:text-white placeholder:text-black/50 dark:placeholder:text-white/50 px-4 pl-12 text-base font-normal leading-normal focus:border-primary focus:ring-2 focus:ring-primary/50" placeholder="Enter a brand or product (e.g., Nike Air Force 1)..." value=""/>
+<button class="absolute inset-y-0 right-0 m-2 flex items-center justify-center rounded-lg bg-primary px-4 py-2 text-sm font-bold text-background-dark transition-opacity hover:opacity-90">
+                                Check Score
+                            </button>
+</div>
+<div class="mt-4 flex flex-wrap items-center gap-2 px-1">
+<p class="text-sm text-black/60 dark:text-white/60 mr-2">Try:</p>
+<button class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-full bg-black/5 dark:bg-white/5 px-4 transition-colors hover:bg-black/10 dark:hover:bg-white/10">
+<p class="text-black dark:text-white text-sm font-medium leading-normal">Levi's 501 Jeans</p>
+</button>
+<button class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-full bg-black/5 dark:bg-white/5 px-4 transition-colors hover:bg-black/10 dark:hover:bg-white/10">
+<p class="text-black dark:text-white text-sm font-medium leading-normal">Patagonia Fleece</p>
+</button>
+<button class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-full bg-black/5 dark:bg-white/5 px-4 transition-colors hover:bg-black/10 dark:hover:bg-white/10">
+<p class="text-black dark:text-white text-sm font-medium leading-normal">Zara Jacket</p>
+</button>
+</div>
+</div>
+<div class="mt-6 w-full max-w-4xl rounded-xl border border-black/10 dark:border-white/10 bg-white dark:bg-background-dark/50 p-6 sm:p-8">
+<h2 class="text-black dark:text-white text-[22px] font-bold leading-tight tracking-[-0.015em]">Sustainability Score for: H&M Hoodie</h2>
+<div class="mt-6 grid grid-cols-1 gap-8 md:grid-cols-3">
+<div class="col-span-1 flex flex-col items-center justify-center rounded-lg bg-black/5 dark:bg-white/5 p-6 text-center">
+<div class="relative h-40 w-40">
+<svg class="h-full w-full" viewbox="0 0 36 36">
+<path class="text-black/10 dark:text-white/10" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-width="3"></path>
+<path class="text-[#DA1E28]" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-dasharray="38, 100" stroke-linecap="round" stroke-width="3"></path>
+</svg>
+<div class="absolute inset-0 flex flex-col items-center justify-center">
+<span class="text-4xl font-extrabold text-[#DA1E28]">38</span>
+<span class="text-sm font-medium text-black/60 dark:text-white/60">/ 100</span>
+</div>
+</div>
+<div class="mt-4 inline-flex items-center gap-2 rounded-full bg-[#DA1E28]/10 px-4 py-1.5">
+<span class="material-symbols-outlined text-[#DA1E28] text-base">thumb_down</span>
+<p class="font-bold text-[#DA1E28]">REJECT</p>
+</div>
+<p class="mt-4 text-sm text-black/60 dark:text-white/60">This product's score is low due to high water usage and non-transparent labor practices. Consider more sustainable alternatives.</p>
+</div>
+<div class="col-span-1 grid grid-cols-1 content-start gap-6 md:col-span-2">
+<div class="flex flex-col gap-2">
+<div class="flex justify-between text-sm">
+<span class="font-medium">Carbon Footprint</span>
+<span class="font-bold text-black dark:text-white">15 kg CO2e</span>
+</div>
+<div class="h-3 w-full rounded-full bg-black/10 dark:bg-white/10">
+<div class="h-3 w-[85%] rounded-full bg-[#DA1E28]"></div>
+</div>
+<p class="text-xs text-black/60 dark:text-white/60">High emissions from manufacturing and transport.</p>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex justify-between text-sm">
+<span class="font-medium">Water Usage</span>
+<span class="font-bold text-black dark:text-white">2,500 Liters</span>
+</div>
+<div class="h-3 w-full rounded-full bg-black/10 dark:bg-white/10">
+<div class="h-3 w-[90%] rounded-full bg-[#DA1E28]"></div>
+</div>
+<p class="text-xs text-black/60 dark:text-white/60">Significant water consumption for cotton cultivation.</p>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex justify-between text-sm">
+<span class="font-medium">Ethical Labor</span>
+<span class="font-bold text-black dark:text-white">Poor</span>
+</div>
+<div class="h-3 w-full rounded-full bg-black/10 dark:bg-white/10">
+<div class="h-3 w-[25%] rounded-full bg-[#DA1E28]"></div>
+</div>
+<p class="text-xs text-black/60 dark:text-white/60">Lack of transparency in the supply chain.</p>
+</div>
+<div>
+<h3 class="mb-3 text-sm font-medium">Material Breakdown</h3>
+<div class="flex items-center gap-4">
+<div class="relative h-24 w-24 flex-shrink-0">
+<svg class="h-full w-full -rotate-90" viewbox="0 0 36 36">
+<circle class="text-[#6F6F6F]" cx="18" cy="18" fill="none" r="15.9155" stroke="currentColor" stroke-dasharray="60, 100" stroke-width="4"></circle>
+<circle class="text-primary" cx="18" cy="18" fill="none" r="15.9155" stroke="currentColor" stroke-dasharray="30, 100" stroke-dashoffset="-60" stroke-width="4"></circle>
+<circle class="text-[#DA1E28]" cx="18" cy="18" fill="none" r="15.9155" stroke="currentColor" stroke-dasharray="10, 100" stroke-dashoffset="-90" stroke-width="4"></circle>
+</svg>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2">
+<div class="h-3 w-3 rounded-sm bg-[#6F6F6F]"></div>
+<p class="text-sm">60% Cotton</p>
+</div>
+<div class="flex items-center gap-2">
+<div class="h-3 w-3 rounded-sm bg-primary"></div>
+<p class="text-sm">30% Recycled Polyester</p>
+</div>
+<div class="flex items-center gap-2">
+<div class="h-3 w-3 rounded-sm bg-[#DA1E28]"></div>
+<p class="text-sm">10% Elastane</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="mt-16 border-t border-black/10 dark:border-white/10 py-8 text-center text-sm text-black/60 dark:text-white/60">
+<p class="mb-4">Powered by IBM-watsonx Orchestrate</p>
+<div class="flex justify-center gap-6">
+<a class="hover:text-primary transition-colors" href="#">Privacy Policy</a>
+<a class="hover:text-primary transition-colors" href="#">Terms of Service</a>
+<a class="hover:text-primary transition-colors" href="#">Contact</a>
+</div>
+</footer>
+</div>
+</div>
+</div>
+</body></html>
